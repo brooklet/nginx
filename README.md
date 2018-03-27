@@ -1,5 +1,29 @@
 # 欢迎使用 Cmd Markdown 编辑阅读器
 
+#Heading
+-----
+paragraph text 
+[Not Changed](https://example.com#23)
+lazy continuation
+[Changed](https://replace.com#abc)
+
+
+------
+
+
+[reference not changed testsetsetes]: https://example.com#23
+[reference changed etetetetet]: https://replace.com#abc
+
+------
+
+
+* 在线阅读：[GitBook](https://www.gitbook.com/book/yeasy/blockchain_guide) 或 [GitHub](https://github.com/yeasy/blockchain_guide/blob/master/SUMMARY.md)
+* pdf 版本 [下载](https://www.gitbook.com/download/pdf/book/yeasy/blockchain_guide)
+* epub 版本 [下载](https://www.gitbook.com/download/epub/book/yeasy/blockchain_guide)
+
+## 进阶学习
+![区块链原理、设计与应用](_images/blockchain_book.png)
+
 ------
 
 我们理解您需要更便捷更高效的工具记录思想，整理笔记、知识，并将其中承载的价值传播给他人，**Cmd Markdown** 是我们给出的答案 —— 我们为记录思想和分享知识提供更专业的工具。 您可以使用 Cmd Markdown：
